@@ -1,0 +1,22 @@
+2025-04-05 17:28:19 - enhanced-chat.php accessed
+2025-04-05 17:28:19 - Database included
+2025-04-05 17:28:19 - Emotion detection included
+2025-04-05 17:28:19 - User context included
+2025-04-05 17:28:19 - Response formatter included
+2025-04-05 17:28:19 - Session started
+2025-04-05 17:28:19 - Message: i fell very lonely
+2025-04-05 17:28:19 - Response sent successfully
+2025-04-05 17:34:07 - enhanced-chat.php accessed
+2025-04-05 17:34:07 - Database included
+2025-04-05 17:34:07 - Emotion detection included
+2025-04-05 17:34:07 - User context included
+2025-04-05 17:34:07 - Response formatter included
+2025-04-05 17:34:07 - Session started
+2025-04-05 17:34:07 - Message: How have I been feeling emotionally over the past few days?
+2025-04-05 17:34:07 - Checking crisis indicators
+2025-04-05 17:34:07 - Initializing user context
+2025-04-05 17:34:07 - Detecting emotion
+2025-04-05 17:34:07 - Emotion detected: neutral
+2025-04-05 17:34:07 - Analyzing context
+2025-04-05 17:34:07 - Saving emotion to context
+2025-04-05 17:34:07 - Getting personalization data
